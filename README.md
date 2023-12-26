@@ -1,5 +1,5 @@
-# github-para-programadores
+# Bienvenido al curso de -github para desarrolladores
 
 github para desarrolladores
 
-Visita mi Blog
+[Visita Google] (https://www.google.com/)
